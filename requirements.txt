@@ -1,6 +1,6 @@
 typesense
 streamlit
-google-generativeai
+google-genai
 qdrant-client
 streamlit-modal
 python-dotenv
