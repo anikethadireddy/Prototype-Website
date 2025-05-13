@@ -1,4 +1,4 @@
-typesense-client
+typesense
 streamlit
 google-generativeai
 qdrant-client
